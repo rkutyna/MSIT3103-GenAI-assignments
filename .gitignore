@@ -1,1 +1,4 @@
-.ipynb_checkpoints/assignment1_hotstart-checkpoint.ipynb
+.ipynb_checkpoints/
+/cifar-10/
+/cifar-10-batches-py/
+/__pycache__
