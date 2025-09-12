@@ -3,4 +3,8 @@
 /Assignment1/cifar-10-batches-py/
 /__pycache__
 .DS_Store
-/assignment_2/assignment_2_hotstart/
+/assignment_2/assignment_2_hotstart/bert-mlm
+/assignment_2/assignment_2_hotstart/gpt2-summarization
+/assignment_2/assignment_2_hotstart/t5-summarization
+/assignment_2/assignment_2_hotstart/news-classifier
+
